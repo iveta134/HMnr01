@@ -1,0 +1,16 @@
+header {
+    text-align: center;
+    font-size: 100;
+}
+
+footer {
+    text-align: center; 
+}
+
+body {
+    background-image: linear-gradient(rgb(134, 134, 252), rgb(224, 81, 81));
+}
+
+.main-name {
+    font-size: 60px;
+}
