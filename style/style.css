@@ -1,6 +1,5 @@
 header {
     text-align: center;
-    font-size: 100;
 }
 
 footer {
@@ -13,4 +12,9 @@ body {
 
 .main-name {
     font-size: 60px;
+}
+
+.iframe {
+    width: 30%;
+    height: 100%;
 }
